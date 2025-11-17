@@ -1,0 +1,47 @@
+{
+    "editor.fontFamily": "Arial",
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingComments": "never",
+    "editor.autoClosingQuotes": "never",
+    "files.exclude": {"**/.git": false},
+    
+    "explorer.confirmDragAndDrop": false,
+    "explorer.compactFolders": false,
+    "explorer.confirmDelete": false,
+
+    "workbench.colorTheme": "Visual Studio Dark",
+    "workbench.startupEditor": "none",
+    "workbench.preferredHighContrastColorTheme": "Visual Studio Dark",
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "workbench.colorCustomizations": {
+
+        "terminal.background": "#0000003c",
+        "editor.background": "#000000",
+        "sideBar.background": "#000000",
+        "activityBar.background": "#000000",
+        "titleBar.activeBackground": "#000000",
+        "titleBar.inactiveBackground": "#000000",
+        "statusBar.foreground": "#ffffff",
+        "statusBar.background": "#000000",
+        "statusBar.noFolderBackground": "#000000",
+        "statusBar.debuggingBackground": "#000000",
+        "focusBorder": "#ff0000", 
+        "editorGroup.border": "#fffb0060",
+        "editor.lineHighlightBorder": "#fffb0060" 
+    },
+
+    "terminal.integrated.fontFamily": "Melno",
+    "terminal.integrated.enableMultiLinePasteWarning": "never",
+    
+    "extensions.ignoreRecommendations": true,
+    "editor.minimap.enabled": false,
+    "python.defaultInterpreterPath": "/usr/local/bin/python3",
+    "chat.disableAIFeatures": true,
+    "terminal.integrated.cursorStyle": "underline",
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.scrollback": 250,
+    "terminal.integrated.stickyScroll.enabled": false,
+    "workbench.tree.renderIndentGuides": "always",
+    "python.createEnvironment.trigger": "off"
+}
