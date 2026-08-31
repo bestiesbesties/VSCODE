@@ -112,5 +112,15 @@
         "key": "shift+alt+right",
         "command": "cursorWordRightSelect",
         "when": "textInputFocus && !accessibilityModeEnabled"
+    },
+    {
+        "key": "ctrl+up",
+        "command": "cursorTop",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+down",
+        "command": "cursorBottom",
+        "when": "editorTextFocus"
     }
 ]
